@@ -24,6 +24,6 @@ Feel free to explore my pinned projects below. I'm constantly working on new ide
 You can find me on [LinkedIn](https://www.linkedin.com/in/aryah-rao/) for professional inquiries and networking opportunities.
 
 ## Get in Touch 📧
-Have any questions or just want to chat? Feel free to reach out via email at [your@email.com](mailto:aryaharjun25@gmail.com).
+Have any questions or just want to chat? Feel free to reach out via email at [aryaharjun25@gmail.com](mailto:aryaharjun25@gmail.com).
 
 Looking forward to connecting with you! 😊
