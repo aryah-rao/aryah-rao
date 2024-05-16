@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me 🚀
 Hey there! I'm Aryah Rao (he/him), a dedicated software engineer with a passion for machine learning. I aim to bridge the gap between technology and philosophy in computer science. Currently, I'm exploring exciting projects and opportunities in the tech world.
