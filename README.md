@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me 🚀
-Hey there! I'm Kona Venkata Aryah Arjun Rao, also known as Aryah Rao, a dedicated software engineer with a passion for machine learning. I aim to bridge the gap between technology and philosophy in computer science. Currently, I'm exploring exciting projects and opportunities in the tech world.
+Hey there! I'm Kona Venkata Aryah Arjun Rao, also known as Aryah Rao, a dedicated software engineer with a passion for machine learning, aiming to bridge the gap between technology and philosophy in computer science.
 
 ## Education 📚
 - Bachelor of Science in Computer Science & Minor in Philosophy from Denison University
