@@ -1,7 +1,9 @@
 # Hi there 👋
 
 ## About Me 🚀
-I'm Kona Venkata Aryah Arjun Rao, a dedicated software engineer with a passion for machine learning, aiming to bridge the gap between technology and philosophy in computer science.
+Hi there! I’m Aryah Rao, a dedicated Computer Science major and Philosophy minor at Denison University, graduating in 2026. My passion lies in exploring the intersection of artificial intelligence, human-computer interaction, and data science to create impactful, real-world solutions.
+
+I’m actively seeking opportunities to expand my expertise in AI, data science, consulting, software engineering, and software development, with the goal of leveraging technology to drive innovation and empower communities. Let’s connect and collaborate on transformative tech solutions!
 
 ## Education 📚
 - Bachelor of Science in Computer Science & Minor in Philosophy from Denison University
