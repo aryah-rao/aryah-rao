@@ -1,23 +1,29 @@
 # Hi there 👋
 
 ## About Me 🚀
-I’m Aryah Rao, a dedicated Computer Science major and Philosophy minor at Denison University, graduating in 2026. My passion lies in exploring the intersection of artificial intelligence, human-computer interaction, and data science to create impactful, real-world solutions.
+I’m Aryah, a Computer Science major and Applied Mathematics & Philosophy minor at Denison University (Class of 2026).
 
-I’m actively seeking opportunities to expand my expertise in AI, data science, consulting, software engineering, and software development, with the goal of leveraging technology to drive innovation and empower communities. Let’s connect and collaborate on transformative tech solutions!
+I have experience in Python, C++, SQL, machine learning, and cloud technologies. My interests lie in exploring the intersection of artificial intelligence, human-computer interaction, and solving problems to create impactful, real-world solutions through software engineering.
+
+I also have experience with competitive programming, data science, research, education, and consultancy.
 
 ## Education 📚
 - Bachelor of Science in Computer Science & Minor in Philosophy from Denison University
   - Discovering Computer Science: Scientific Data and Dynamics
   - Multivariable Calculus
   - Discrete Mathematics
+  - Linear Algebra
+  - Statistics
   - Logic
   - Ethics
   - Work Seminar
   - Object Oriented Programming
   - Data Systems
   - Programming Problems
-  - Data Structures and Algorithms
+  - Data Structures
   - Computer Architecture and Organization
+  - Algorithms
+  - Operating Systems
 
 ## Projects 🛠️
 Feel free to explore my pinned projects below. I'm constantly working on new ideas and collaborations, so stay tuned for updates!
